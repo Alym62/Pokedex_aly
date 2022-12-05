@@ -1,0 +1,20 @@
+            <li>
+                Ivysaur
+                <img src="./assets/img/ivysaur.png" alt="ivysaur">
+            </li>
+            <li>
+                Venusaur
+                <img src="./assets/img/venosaur.png" alt="venusaur">
+            </li>
+            <li>
+                Charmander
+                <img src="./assets/img/charmander.png" alt="charmander">
+            </li>
+            <li>
+                Charmeleon
+                <img src="./assets/img/charmeleon.png" alt="charmeleon">
+            </li>
+            <li>
+                Charizard
+                <img src="./assets/img/charizard.png" alt="charizard">
+            </li>
